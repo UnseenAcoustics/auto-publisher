@@ -1,4 +1,4 @@
-![Bot PFP](https://cdn.discordapp.com/avatars/712580238726660118/b0f6507cd9e648bb50fc514e8413948c.png?size=512)
+![Bot PFP](https://github.com/UnseenAcoustics/auto-publisher/blob/master/circle-cropped.png?raw=true)
 
 # Auto Announcement Publisher
 Automatically publish messages or news in your announcement channels!
@@ -11,7 +11,7 @@ An excellent solution for servers who rely on bots (such as RSS feeds) or webhoo
 ## How to set up?
 
 #### 1. Invite the bot to your server.
-https://discord.com/oauth2/authorize?client_id=712580238726660118&permissions=10240&scope=bot
+https://discord.com/oauth2/authorize?client_id=856176713355624478&permissions=10240&scope=bot
 
 #### 2. Navigate to your announcement channel's settings and give bot the following permissions: ```Read Messages```, ```Send Messages```, ```Manage Messages```, ```Read Message History```
 
@@ -26,5 +26,5 @@ https://discord.com/oauth2/authorize?client_id=712580238726660118&permissions=10
 #### If one of your announcement channels is very spammy, your server will get blacklisted from using the bot! Please be sensible when using the bot and don't make your moderation log channels or general chat into an announcement channel.
 
 ### Still Need help?
-#### Don't hesitate to message me on Discord: ```[YT]UnseenAcoustics#7878```
+#### Don't hesitate to message me on Discord: ```UnseenAcoustics#7878```
 
