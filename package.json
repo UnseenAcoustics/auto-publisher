@@ -2,10 +2,8 @@
   "name": "discord-auto-publisher",
   "version": "1.3.2",
   "description": "Automatically publish messages or news in your announcement channels!",
-  "author": "Forcellrus",
+  "author": "UnseenAcoustics",
   "license": "MIT",
-  "homepage": "https://github.com/Forcellrus/Discord-Auto-Publisher#readme",
-  "repository": "github:Forcellrus/Discord-Auto-Publisher",
   "main": "bot.js",
   "dependencies": {
     "chalk": "^4.1.0",
